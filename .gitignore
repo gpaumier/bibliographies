@@ -1,0 +1,8 @@
+# Fichiers de sauvegardes automatiques
+*.bak
+
+# Textes intégraux
+*.pdf
+*.doc
+*.epub
+*.ppt
